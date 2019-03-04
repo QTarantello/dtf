@@ -1,0 +1,52 @@
+.under-title td {padding-right: 20px}
+
+.all-text {
+    width: 680px;
+    margin-left: 500px;
+
+}
+
+body {
+    font-family: 'Roboto',Tahoma;
+    font-size: 12pt;
+    position: relative;
+}
+
+blockquote {
+    width: 350px;
+    position: relative; 
+    padding-left: 150px;
+    font-size: 14pt;
+}
+
+.line-2 {
+    display: flex; 
+}
+
+.stroka {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.mini-pic {
+    padding-left: 40px;
+    border-radius: 30px;
+}
+
+.part-int {
+    display: flex;
+    margin-left: 150px;
+}
+
+.all-block {
+    background-color: #f5fcff;
+    padding: 20px;
+}
+
+.all-block table  {
+    padding-left: 15px;
+}
+
+img {
+    max-width: 100%;
+}
